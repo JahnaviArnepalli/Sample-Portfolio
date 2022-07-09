@@ -1,0 +1,9 @@
+To use the code : 
+
+1) Save the css file and jss file in the folders named css and js.
+2) Put all the mp3 files into a folder named music.
+3) Then the background image into another folder img.
+
+            OR
+
+You can change the code accordingly(as in to use directly as files).
